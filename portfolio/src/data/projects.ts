@@ -16,7 +16,7 @@ export const projects: Project[] = [
     name: "Pokemon Encyclopedia",
     description: "A fun way of discovering pokemon",
     image: "",
-    link: "#",
+    link: "https://nandinip92.github.io/photo-viewer-react-app/",
   },
   {
     name: "Mars Mission",
