@@ -1,4 +1,6 @@
 import Project from '../models/project'
+import laptop from "../assets/laptop.png"
+
 export const projects: Project[] = [
   {
     name: "Photo Viewer",
@@ -15,7 +17,7 @@ export const projects: Project[] = [
   {
     name: "Pokemon Encyclopedia",
     description: "A fun way of discovering pokemon",
-    image: "",
+    image: laptop,
     link: "https://nandinip92.github.io/photo-viewer-react-app/",
   },
   {
