@@ -33,7 +33,7 @@ main {
   justify-content: end;
   align-items: stretch;
   width: calc(50% - 0.75rem);
-  background-color: lightpink;
+  background-color: rgb(173, 114, 123);
   text-decoration: none;
   transition: filter 0.25s;
 }
